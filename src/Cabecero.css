@@ -1,0 +1,13 @@
+.custom-navbar {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .text-box {
+    width: 200px;
+    height: 100px;
+    background-color: #3498db;
+    /* Otros estilos según sea necesario */
+  }
